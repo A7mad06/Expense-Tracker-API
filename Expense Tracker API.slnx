@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Domain/Domain.csproj" />
+    <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Services.Abstraction/Services.Abstraction.csproj" />
+    <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Services/Services.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Presentation/Presentation.csproj" />
+    <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Presistence/Presistence.csproj" />
+  </Folder>
+  <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Expense Tracker API/Expense Tracker API.csproj" />
+  <Project Path="E:/New folder (2)/Projects/Expense Tracker API/Shared/Shared.csproj" />
+</Solution>
